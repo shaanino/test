@@ -1,0 +1,6 @@
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\obj\Debug\WcfInsert.csprojResolveAssemblyReference.cache
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\bin\WcfInsert.dll.config
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\bin\WcfInsert.dll
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\bin\WcfInsert.pdb
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\obj\Debug\WcfInsert.dll
+c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\WcfInsert\WcfInsert\obj\Debug\WcfInsert.pdb
