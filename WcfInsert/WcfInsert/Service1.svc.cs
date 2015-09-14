@@ -26,7 +26,7 @@ namespace WcfInsert
 
             if (result == 1)
             {
-                message = UserInfo.UserName + "suces";
+                message = UserInfo.UserName + "sucess";
 
             }
 
