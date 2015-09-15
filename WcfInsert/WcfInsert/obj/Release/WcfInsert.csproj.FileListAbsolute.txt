@@ -1,0 +1,6 @@
+C:\testttt\test\WcfInsert\WcfInsert\bin\WcfInsert.dll.config
+C:\testttt\test\WcfInsert\WcfInsert\bin\WcfInsert.dll
+C:\testttt\test\WcfInsert\WcfInsert\bin\WcfInsert.pdb
+C:\testttt\test\WcfInsert\WcfInsert\obj\Release\WcfInsert.csprojResolveAssemblyReference.cache
+C:\testttt\test\WcfInsert\WcfInsert\obj\Release\WcfInsert.dll
+C:\testttt\test\WcfInsert\WcfInsert\obj\Release\WcfInsert.pdb
